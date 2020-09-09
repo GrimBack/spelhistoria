@@ -1,4 +1,10 @@
-html {
+html 
+{
   margin: 120px;
-  background-color: blue;
-  }
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: 125%;
+  background-color: lightpink;
+    color:black;
+    
+}
